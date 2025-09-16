@@ -1,8 +1,3 @@
-<!-- Profile Banner (Optional: replace link with your own custom banner image) -->
-<p align="center">
-  <img src="https://i.ibb.co/qnXzg3H/github-banner.png" alt="Abdelrahman Khaled | DevOps Engineer" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Abdelrahman Khaled</h1>
 <h3 align="center">🚀 DevOps Engineer | Cloud • Automation • CI/CD • GitOps</h3>
 
