@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Abdelrahman Khaled</h1>
+<h1 align="center"> Hello friend, I'm Abdelrahman Khaled</h1>
 <h3 align="center">🚀 DevOps Engineer | Cloud • Automation • CI/CD • GitOps</h3>
 
 ---
@@ -55,8 +55,3 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
----
-
-⭐ *“Automating everything, scaling everywhere, and always learning.”*
-
