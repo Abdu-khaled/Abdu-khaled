@@ -4,7 +4,6 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌍 From Egypt  
 - 🔭 Currently building **CI/CD pipelines & cloud-native infrastructures**  
 - 🌱 Learning more about **Kubernetes, Terraform & AWS advanced services**  
 - ⚡ Strong interest in **Infrastructure as Code, automation & monitoring**  
@@ -34,9 +33,8 @@
 
 ## 📌 Featured Projects  
 
-🔹 [**DevOps Capstone Project**](https://github.com/abdu-khaled/devops-capstone) – Full GitOps pipeline using **Terraform, Jenkins, ArgoCD, AWS EKS**  
-🔹 [**CI/CD Ephemeral Infra**](https://github.com/abdu-khaled/ci-cd-ephemeral-infra) – Automated ephemeral infrastructure with **Terraform + Jenkins**  
-🔹 [**AWS VPC Project**](https://github.com/abdu-khaled/aws-vpc-project) – Designed VPC with **public/private subnets, ALB & Auto Scaling**  
+🔹 [**DevOps Capstone Project**](https://github.com/Abdu-khaled/DEVOPS_CAPSTONE.git) – Full GitOps pipeline using **Terraform, Jenkins, ArgoCD, AWS EKS**  
+🔹 [**CI/CD Ephemeral Infra**](https://github.com/Abdu-khaled/ci-cd-ephemeral-infra.git) – Automated ephemeral infrastructure with **Terraform + Jenkins**  
 
 ---
 
