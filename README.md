@@ -34,7 +34,9 @@
 ## 📌 Featured Projects  
 
 🔹 [**DevOps Capstone Project**](https://github.com/Abdu-khaled/DEVOPS_CAPSTONE.git) – Full GitOps pipeline using **Terraform, Jenkins, ArgoCD, AWS EKS**  
-🔹 [**CI/CD Ephemeral Infra**](https://github.com/Abdu-khaled/ci-cd-ephemeral-infra.git) – Automated ephemeral infrastructure with **Terraform + Jenkins**  
+🔹 [**CI/CD Ephemeral Infra**](https://github.com/Abdu-khaled/ci-cd-ephemeral-infra.git) – Automated ephemeral infrastructure with **Terraform + Jenkins + Ansible + Docker**  
+🔹 [**AutoAWS**](https://github.com/Abdu-khaled/AutoAWS.git) – AutoAWS is an infrastructure-as-code tool that automates AWS resource provisioning using simple YAML files—eliminating the need to write complex Terraform code.
+
 
 ---
 
