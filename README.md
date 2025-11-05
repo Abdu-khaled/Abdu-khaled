@@ -1,5 +1,5 @@
 <h1 align="center"> Hello friend, I'm Abdelrahman Khaled</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud • Automation • CI/CD • GitOps</h3>
+<h3 align="center"> DevOps Engineer | Cloud • Automation • CI/CD • GitOps</h3>
 
 ---
 
