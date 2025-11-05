@@ -1,5 +1,5 @@
 <h1 align="center"> Hello friend, I'm Abdelrahman Khaled</h1>
-<h3 align="center"> DevOps Engineer | Cloud • Automation • CI/CD • GitOps</h3>
+<h3 align="center">DevOps Engineer | Cloud • Automation • CI/CD • GitOps</h3>
 
 ---
 
@@ -11,15 +11,15 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
-### ☁️ Cloud & Infra
+### Cloud & Infra
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🔨 CI/CD & Automation
+### CI/CD & Automation
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-FE4C4C.svg?style=for-the-badge&logo=argo&logoColor=white)
