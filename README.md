@@ -30,31 +30,14 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
-
 ## 📌 Featured Projects
 
-🔹 **Konecta-ERP-System** — Enterprise CI/CD pipelines for an ERP system.  
-Highlights: Security-first GitHub Actions workflows, quality gates, and multi-language microservices.  
-Tech: **GitHub Actions · Trivy · Gitleaks · SonarQube · Angular · Spring Boot · .NET · Docker**  
-🔗 https://github.com/Abdu-khaled/Konecta-ERP-System
-
----
-
-🔹 **DevOps Capstone Project** — Full GitOps pipeline and end-to-end automation.  
-Tech: **Terraform · Jenkins · ArgoCD · AWS EKS**  
-🔗 https://github.com/Abdu-khaled/DEVOPS_CAPSTONE.git
-
----
-
-🔹 **CI/CD Ephemeral Infra** — Automated ephemeral environments for CI/CD testing.  
-Tech: **Terraform · Jenkins · Ansible · Docker**  
-🔗 https://github.com/Abdu-khaled/ci-cd-ephemeral-infra.git
-
----
-
-🔹 **AutoAWS** — Declarative AWS provisioning from YAML configs.  
-Tech: **Python · GitHub Actions**  
-🔗 https://github.com/Abdu-khaled/autoaws
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| Konecta-ERP-System | Enterprise CI/CD pipelines with security & quality gates | GitHub Actions, Trivy, SonarQube, Angular, Spring Boot, .NET, Docker | https://github.com/Abdu-khaled/Konecta-ERP-System |
+| DevOps Capstone Project | Full GitOps pipeline & automation | Terraform, Jenkins, ArgoCD, AWS EKS | https://github.com/Abdu-khaled/DEVOPS_CAPSTONE.git |
+| CI/CD Ephemeral Infra | Ephemeral infra for CI/CD testing | Terraform, Jenkins, Ansible, Docker | https://github.com/Abdu-khaled/ci-cd-ephemeral-infra.git |
+| AutoAWS | YAML-driven AWS provisioning | Python, GitHub Actions | https://github.com/Abdu-khaled/autoaws |
 
 ---
 
