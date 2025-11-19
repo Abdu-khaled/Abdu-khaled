@@ -48,14 +48,6 @@
 ![ELK](https://img.shields.io/badge/ELK-464646.svg?style=for-the-badge) 
 
 ---
-
-If you'd like I can:
-- Tweak any badge theme (dark/light/flat), or
-- Remove/add badges (e.g., JaCoCo, JUnit, Docker Buildx, Kubernetes operators), or
-- Produce a compact single-line badge row for your profile README.
-
-Tell me which style you prefer and I’ll paste the final block ready to commit to your profile README.  
----
 ## 📌 Featured Projects
 
 | Project | Description | Tech | Link |
