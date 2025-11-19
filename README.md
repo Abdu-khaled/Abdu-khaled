@@ -31,23 +31,53 @@
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Projects
 
-🔹 [**DevOps Capstone Project**](https://github.com/Abdu-khaled/DEVOPS_CAPSTONE.git) – Full GitOps pipeline using **Terraform, Jenkins, ArgoCD, AWS EKS**  
-🔹 [**CI/CD Ephemeral Infra**](https://github.com/Abdu-khaled/ci-cd-ephemeral-infra.git) – Automated ephemeral infrastructure with **Terraform + Jenkins + Ansible + Docker**  
-🔹 [**AutoAWS**](https://github.com/Abdu-khaled/autoaws) – Automated AWS provisioning from **YAML configs** using **Python + GitHub Actions**
+🔹 **Konecta-ERP-System** — Enterprise CI/CD pipelines for an ERP system.  
+Highlights: Security-first GitHub Actions workflows, quality gates, and multi-language microservices.  
+Tech: **GitHub Actions · Trivy · Gitleaks · SonarQube · Angular · Spring Boot · .NET · Docker**  
+🔗 https://github.com/Abdu-khaled/Konecta-ERP-System
 
 ---
 
-## 📊 GitHub Stats  
+🔹 **DevOps Capstone Project** — Full GitOps pipeline and end-to-end automation.  
+Tech: **Terraform · Jenkins · ArgoCD · AWS EKS**  
+🔗 https://github.com/Abdu-khaled/DEVOPS_CAPSTONE.git
+
+---
+
+🔹 **CI/CD Ephemeral Infra** — Automated ephemeral environments for CI/CD testing.  
+Tech: **Terraform · Jenkins · Ansible · Docker**  
+🔗 https://github.com/Abdu-khaled/ci-cd-ephemeral-infra.git
+
+---
+
+🔹 **AutoAWS** — Declarative AWS provisioning from YAML configs.  
+Tech: **Python · GitHub Actions**  
+🔗 https://github.com/Abdu-khaled/autoaws
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdu-khaled&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdu-khaled&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <a href="https://github.com/abdu-khaled" target="_blank" rel="noopener">
+    <img src="https://github-readme-stats.vercel.app/api?username=abdu-khaled&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues,prs" alt="GitHub Stats" width="460"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdu-khaled&layout=compact&theme=radical&hide=Jupyter%20Notebook" alt="Top Languages" width="260"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdu-khaled&theme=radical&border_radius=6" alt="GitHub Streak"/>
+  <a href="https://github.com/abdu-khaled" target="_blank" rel="noopener">
+    <img src="https://streak-stats.demolab.com?user=abdu-khaled&theme=radical&border_radius=6" alt="GitHub Streak" height="120"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=abdu-khaled&theme=radical&row=1&column=7" alt="Trophies" height="120"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/abdu-khaled?label=Followers&style=social" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Top%20Project-Konecta--ERP-blue?style=flat" alt="Top project"/>
+  <img src="https://img.shields.io/badge/Most%20used-Terraform%20%7C%20Docker-lightgrey?style=flat" alt="Top tech"/>
 </p>
 
 ---
