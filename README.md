@@ -61,8 +61,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdu-khaled&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdu-khaled&layout=compact&theme=radical" alt="Top Languages" height="150"/>
