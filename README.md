@@ -61,26 +61,12 @@ Tech: **Python · GitHub Actions**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/abdu-khaled" target="_blank" rel="noopener">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdu-khaled&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues,prs" alt="GitHub Stats" width="460"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdu-khaled&layout=compact&theme=radical&hide=Jupyter%20Notebook" alt="Top Languages" width="260"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdu-khaled&show_icons=true&theme=radical&hide=issues,prs" alt="GitHub Stats" width="460"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdu-khaled&layout=compact&theme=radical" alt="Top Languages" width="260"/>
 </p>
-
 <p align="center">
-  <a href="https://github.com/abdu-khaled" target="_blank" rel="noopener">
-    <img src="https://streak-stats.demolab.com?user=abdu-khaled&theme=radical&border_radius=6" alt="GitHub Streak" height="120"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=abdu-khaled&theme=radical&row=1&column=7" alt="Trophies" height="120"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=abdu-khaled&theme=radical&border_radius=6" alt="GitHub Streak" height="120"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/abdu-khaled?label=Followers&style=social" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Top%20Project-Konecta--ERP-blue?style=flat" alt="Top project"/>
-  <img src="https://img.shields.io/badge/Most%20used-Terraform%20%7C%20Docker-lightgrey?style=flat" alt="Top tech"/>
-</p>
-
----
 
 ## 🐍 Contribution Snake  
 <p align="center">
