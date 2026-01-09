@@ -2,7 +2,11 @@
 <h3 align="center">DevOps Engineer | Cloud • Automation • CI/CD • GitOps</h3>
 
 <p align="center">
+  <!-- Profile views (you already have this) -->
   <img src="https://komarev.com/ghpvc/?username=abdu-khaled&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+  <!-- Followers badge (shields.io) -->
+  <img src="https://img.shields.io/github/followers/abdu-khaled?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ---
