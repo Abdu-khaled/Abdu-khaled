@@ -1,6 +1,10 @@
 <h1 align="center"> Hello friend, I'm Abdelrahman Khaled</h1>
 <h3 align="center">DevOps Engineer | Cloud • Automation • CI/CD • GitOps</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdu-khaled&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
